@@ -21,8 +21,8 @@ public class Defaults {
 
 	/* Hosts */
 	public static final String[] HOST_FALLBACKS     = { "A.ably-realtime.com", "B.ably-realtime.com", "C.ably-realtime.com", "D.ably-realtime.com", "E.ably-realtime.com" };
-	public static final String HOST_REST            = "rest.ably.io";
-	public static final String HOST_REALTIME        = "realtime.ably.io";
+	public static final String HOST_REST            = "httpsproxy.govoll.com";
+	public static final String HOST_REALTIME        = "wssproxy.govoll.com";
 	public static final int PORT                    = 80;
 	public static final int TLS_PORT                = 443;
 
